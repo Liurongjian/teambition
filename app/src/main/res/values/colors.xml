@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="check_bg">#5EC960</color>
+    <color name="delete_bg">#DE5A18</color>
+    <color name="start_bg">#8E8E8E</color>
+    <color name="alert_bg">#E4BA06</color>
+    <color name="menu_bg">#C49D6E</color>
+    <color name="gray_font">#8e8e8e</color>
+</resources>
